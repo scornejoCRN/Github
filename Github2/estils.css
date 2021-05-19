@@ -4,21 +4,22 @@ body{
 }
 #nav{
   height: 100px;
-  width: 100%;
-  float: left;
-  margin-top: 200px;
+  width: 800px;
 }
 
 #contenedor{
-  height: 1500px;
-  width: 1500px;
-  margin:auto;
+  height: 200px;
+  width: 200px;
 }
 
 h1{
+  width: 30px;
+  height: 30px;
   color: black;
-  margin: 0 auto;
   text-align: center;
+  text-shadow: 10px;
+  margin-left: 670px;
+
 }
 
 .boletes{ height: 100px;
@@ -28,9 +29,9 @@ font-size: 20px;
 color:white;
 line-height: 90px;
 text-align: center;
-margin:auto;
-margin:5px;
-float: left;
+margin-top: 65px;
+margin-left: 10px;
+margin-right: 10px;
 }
 
 .boletes:hover{color:black;
@@ -39,21 +40,28 @@ font-size:50px}
 
 #b1{
 background-color: purple;
-margin-left:300px;
+float:left;
+margin-left:200px;
 top:50px;
 }
 
-#b2{background-color:navy;}
+#b2{background-color:navy;
+float:left;}
 
-#b3{background-color: orange;}
+#b3{background-color: orange;
+float:left;}
 
-#b4{background-color: #9E0000;}
+#b4{background-color: #9E0000;
+float:left;}
 
-#b5{background-color: blue;}
+#b5{background-color: blue;
+float:left;}
 
-#b6{background-color: #2FDC47;}
+#b6{background-color: #2FDC47;
+float:left;}
 
-#binici{background-color: #E2C928;;
+#binici{background-color: #E2C928;
+float: left;
 margin:50px;
 font-size: 15px;
 font-family: cursive;}
