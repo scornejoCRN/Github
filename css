@@ -1,0 +1,38 @@
+body{ background-color: cyan;
+margin:0px
+padding: 0px;
+Font-family: helvetica;}
+p{font-size:18px
+line-heigth:22px;
+margin-left:25px;
+Width:400px
+}
+h1{margin-left:25px;
+  margin-top:40px;
+width:400px;
+text-align:center;}
+
+#menu{background-color:#6C3;
+heigth:400px}
+
+#coneix{background-color:#FFF;
+heigth:550px;
+background-imge: url:(img/img-hero-full-list.png);
+bcakgroung-repeat: no repeat }
+
+#tot{background-color:#FFF;
+heigth:641px;}
+
+#Util{background-color:#333333;
+heigth:500px}
+
+#Rápid{background-color:#EEECEE;
+heigth:550px}
+
+#Fácil{background-color:#6C3;
+heigth:550px;}
+
+#Arreu{background-color:#EEECEE;
+heigth:643px;}
+
+#Fotter{background-color:#333333;}
